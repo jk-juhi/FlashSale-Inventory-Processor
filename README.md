@@ -1,25 +1,21 @@
 # Flash-Sale Inventory Order Processor
 
-A Python-based implementation of a flash-sale inventory processing system demonstrating key Data Structures and Algorithms concepts.
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![DSA](https://img.shields.io/badge/DSA-Insertion%20Sort%20%26%20Two%20Pointers-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+## About
+
+This project is a Python implementation of a **Flash-Sale Inventory Order Processor** developed as part of a Data Structures & Algorithms assignment.
+
+The system processes inventory orders by sorting them **in-place** using **Insertion Sort** and efficiently finding a pair of orders matching a target budget using the **Two-Pointer Technique**, while maintaining **O(1) auxiliary space**.
 
 ## Features
 
 - In-place Insertion Sort
 - Two-Pointer Search
 - O(1) Auxiliary Space
-- Object-Oriented Python Design
-
-## Project Structure
-
-```
-FlashSale-Inventory-Processor/
-│
-├── app.py
-├── test_cases.py
-├── README.md
-├── LICENSE
-└── .gitignore
-```
+- Object-Oriented Python Implementation
 
 ## How to Run
 
@@ -27,9 +23,6 @@ FlashSale-Inventory-Processor/
 python test_cases.py
 ```
 
-## Concepts Used
+## Author
 
-- Insertion Sort
-- Two-Pointer Technique
-- Time & Space Complexity Analysis
-- Python OOP
+**Juhi Kansal**
